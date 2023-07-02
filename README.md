@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Wakyo! 👋
 
-<!--
-**wakyodev/wakyodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **:computer: Languages:**<br>
+🔹 C#<br>
+🔹 Python<br>
+🔹 PHP<br>
+🔹 JS<br>
+🔹 HTML<br>
+### **:stars: Technologies:**<br>
+🔹 TailwindCSS<br>
+🔹 Electron<br>
+### **:book: Still Learning:**<br>
+ :small_orange_diamond: Java<br>
+ :small_orange_diamond: Roblox LUA<br>
+### **⚙️ Others:**<br>
+ 🔹 Blender<br>
+ 🔹 Unity<br>
+### **:phone: Find me on:**<br>
+ ⌨️ Discord<br>
+ ⌨️ Twitter<br>
+ ⌨️ Email<br>
