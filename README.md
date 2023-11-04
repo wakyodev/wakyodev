@@ -16,7 +16,4 @@
 ### **⚙️ Others:**<br>
  🔹 Blender<br>
  🔹 Unity<br>
-### **:phone: Find me on:**<br>
- ⌨️ Discord<br>
- ⌨️ Twitter<br>
- ⌨️ Email<br>
+
